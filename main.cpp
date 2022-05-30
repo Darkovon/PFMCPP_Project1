@@ -70,7 +70,7 @@ bird.peck();
 //  3)
 //  Noun: bitwig
 //  action 1:  bitwig checks the contents of custom VST folder
-bitwig.customVstFolderContent();
+bitwig.checkCustomVstFolderContent();
 //  action 2: bitwig deactivates the audio engine upon CPU overload
 bitwig.deactivateAudioEngine();
 //  action 3: bitwig sleeps a VST when not in use
@@ -80,7 +80,7 @@ bitwig.sleepVST();
 //  action 1: the lightsaber cuts
 lightsaber.cut();
 //  action 2: the lightsaber deflects a blaster bolt
-lightsaber.blasterDeflect();
+lightsaber.deflectBlasterBolt();
 //  action 3: the lightsaber changes to a random color
 lightsaber.randomColor();
 //  5)
@@ -90,7 +90,7 @@ iphone.takePicture();
 //  action 2: the iphone sends a text
 iphone.sendText();
 //  action 3: the iphone updates its current GPS location
-iphone.gpsLocationUpdate();
+iphone.updateGpsLocation();
 //  6)
 //  Noun: death star
 //  action 1: the death star enters hyperspace
@@ -110,27 +110,27 @@ jim.call();
 //  8)
 //  Noun: matkat
 //  action 1: matkat reviews the most recent replit commit
-matkat.replitReview();
+matkat.reviewReplitCommit();
 //  action 2: matkat creates a new project
-matkat.projectCreate();
+matkat.createNewProject();
 //  action 3: matkat reads through slack notifications
 matkat.readSlack();
 //  9)
 //  Noun: spider
 //  action 1: the spider emits an aura of evilness
-spider.evilAura();
+spider.emitEvilAura();
 //  action 2: the spider spontaneously combusts
 spider.combust();
 //  action 3: the spider leaves Skyler alone
-spider.peaceful();
+spider.leaveSkylerAlone();
 //  10)
 //  Noun: red bull
 //  action 1: red bull gives you wings
 redBull.giveWings();
 //  action 2: red bull wakes you up
-redBull.goodMorning();
+redBull.wakeYouUp();
 //  action 3: red bull helps you focus
-redBull.increaseFocus();
+redBull.helpYouFocus();
 
 
 #endif
