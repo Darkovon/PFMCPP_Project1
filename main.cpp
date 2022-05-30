@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: baby
+//  action 1: the baby cries
+baby.cry();
+//  action 2: the baby grabs
+baby.grab();
+//  action 3: the baby eats
+baby.eat();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: bird
+//  action 1: the bird flies
+bird.fly();
+//  action 2: the bird sleeps
+bird.sleep();
+//  action 3: the bird pecks
+bird.peck();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: bitwig
+//  action 1:  bitwig checks the contents of custom VST folder
+bitwig.checkCustomVstFolderContent();
+//  action 2: bitwig deactivates the audio engine upon CPU overload
+bitwig.deactivateAudioEngine();
+//  action 3: bitwig sleeps a VST when not in use
+bitwig.sleepVST();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: lightsaber
+//  action 1: the lightsaber cuts
+lightsaber.cut();
+//  action 2: the lightsaber deflects a blaster bolt
+lightsaber.deflectBlasterBolt();
+//  action 3: the lightsaber changes to a random color
+lightsaber.randomColor();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: iphone
+//  action 1: the iphone takes a picture
+iphone.takePicture();
+//  action 2: the iphone sends a text
+iphone.sendText();
+//  action 3: the iphone updates its current GPS location
+iphone.updateGpsLocation();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: death star
+//  action 1: the death star enters hyperspace
+deathStar.enterHyperspace();
+//  action 2: the death star fires on its current target
+deathStar.fire();
+//  action 3: the death star activates its tractor beam
+deathStar.activateTractorBeam();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: Jim
+//  action 1: Jim sells paper
+jim.sellPaper();
+//  action 2: Jim pranks Dwight
+jim.prankDwight();
+//  action 3: Jim makes a phone call
+jim.call();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: matkat
+//  action 1: matkat reviews the most recent replit commit
+matkat.reviewReplitCommit();
+//  action 2: matkat creates a new project
+matkat.createNewProject();
+//  action 3: matkat reads through slack notifications
+matkat.readSlack();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: spider
+//  action 1: the spider emits an aura of evilness
+spider.emitEvilAura();
+//  action 2: the spider spontaneously combusts
+spider.combust();
+//  action 3: the spider leaves Skyler alone
+spider.leaveSkylerAlone();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: red bull
+//  action 1: red bull gives you wings
+redBull.giveWings();
+//  action 2: red bull wakes you up
+redBull.wakeYouUp();
+//  action 3: red bull helps you focus
+redBull.helpYouFocus();
 
 
 #endif
